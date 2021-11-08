@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "name":"REPLACE TIRE",
+        "price":200,
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis vero, corrupti, dolor exercitationem eos atque autem culpa possimus, soluta distinctio accusantium praesentium. Aliquid mollitia maxime fuga necessitatibus, rem hic neque.",
+        "img":"https://i.ibb.co/18WxZ3C/A-young-mechanic-is-smiling-to-camera-as-he-works-on-a-car-in-a-garage-repair-shop-He-is-wearing-blu.jpg"
+        },
+        {
+            "id":2,
+            "name":"WASH AND GLASSING",
+            "price":500,
+            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis vero, corrupti, dolor exercitationem eos atque autem culpa possimus, soluta distinctio accusantium praesentium. Aliquid mollitia maxime fuga necessitatibus, rem hic neque.",
+            "img":"https://i.ibb.co/HF5f6YB/Vehicle-Maintenance-Check-List-Car-Mechanic-with-Documentation-in-Hand-Automotive-Industry-Theme.jpg"
+            },
+            {
+                "id":3,
+                "name":"BREAKE REPARING",
+                "price":800,
+                "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis vero, corrupti, dolor exercitationem eos atque autem culpa possimus, soluta distinctio accusantium praesentium. Aliquid mollitia maxime fuga necessitatibus, rem hic neque.",
+                "img":"https://i.ibb.co/BZP0ZRx/Car-mechanic-man-at-the-garage-fixing-the-engine-Hands-of-car-mechanic-with-wrench-in-garage-Close-u.jpg"
+                },
+                {
+                    "id":4,
+                    "name":"WHEEL ALIGNMENT",
+                    "price":2000,
+                    "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis vero, corrupti, dolor exercitationem eos atque autem culpa possimus, soluta distinctio accusantium praesentium. Aliquid mollitia maxime fuga necessitatibus, rem hic neque.",
+                    "img":"https://i.ibb.co/0Byr0fz/Woman-repairing-a-car-in-auto-repair-shop.jpg"
+                    },
+                    {
+                        "id":5,
+                        "name":"ENGINE DIAGNOSTIC",
+                        "price":1000,
+                        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis vero, corrupti, dolor exercitationem eos atque autem culpa possimus, soluta distinctio accusantium praesentium. Aliquid mollitia maxime fuga necessitatibus, rem hic neque.",
+                        "img":"https://i.ibb.co/s1ffjNg/Mechanic-fixing-cylinder-head-with-camshaft-of-car-engine-with-socket-wrench.jpg"
+                        },
+                        {
+                            "id":6,
+                            "name":"OIL CHANGING",
+                            "price":300,
+                            "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis vero, corrupti, dolor exercitationem eos atque autem culpa possimus, soluta distinctio accusantium praesentium. Aliquid mollitia maxime fuga necessitatibus, rem hic neque.",
+                            "img":"https://i.ibb.co/J231gWH/replacement-of-spark-plugs-in-a-modern-engine.jpg"
+                        }
+
+]         
